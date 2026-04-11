@@ -63,13 +63,7 @@ Planned future enhancements include solar-powered bins for energy independence, 
 | Future waste-level prediction | ✅ Covered |
 | ML model comparison | ✅ Covered |
 | Day/Time classification | ✅ Covered |
-| Real-time data collection | ✅ Covered |
-| Hardware prototype | ✅ Covered |
-| Automated alerts | ✅ Covered |
-| Cloud dashboard | ⚠️ Partial |
-| Mobile application | ❌ Future Work |
-| Route optimization | ❌ Future Work |
-| Waste classification | ❌ Future Work |
+
 
 ## 🎯 Conclusion
 
@@ -83,9 +77,9 @@ The Smart Waste Management System successfully integrates IoT hardware with mach
 
 ## 👥 Authors
 
-**Your Name** - Lead Developer  
-**Guide Name** - Project Supervisor  
-**College Name** - Department of Computer Science
+**Geethanjali.M** - Lead Developer  
+**Prof.Vinayashree A.S** - Project Supervisor  
+**MIT MYSORE** - Department of Computer Science(AI)
 
 ## 📄 License
 
