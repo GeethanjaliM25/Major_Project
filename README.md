@@ -1,7 +1,7 @@
 # 📦 Smart Waste Management System - IoT with Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Arduino](https://img.shields.io/badge/Arduino-IDE-00979D.svg)
+![Arduino](https://img.shields.io/badge/Arduino-IDE-00979D.svg) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange.svg)
 ![IoT](https://img.shields.io/badge/IoT-ESP32-yellowgreen.svg)
 ![Accuracy](https://img.shields.io/badge/Accuracy-85.34%25-brightgreen.svg)
