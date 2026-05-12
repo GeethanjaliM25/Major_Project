@@ -9,7 +9,7 @@
 
 ## 🗑️ Project Overview
 
-An end-to-end IoT-based Smart Waste Management System that uses Ultrasonic Sensors to monitor garbage bin fill levels and Machine Learning to predict future waste accumulation. The system provides real-time alerts, generates optimized collection schedules, and helps municipal corporations reduce operational costs.
+An end-to-end IoT-based Smart Waste Management System that uses Ultrasonic Sensors to monitor garbage bin fill levels and Machine Learning to predict future waste accumulation. The system provides real-time alerts, generates optimized collection schedules, and helps municipal corporations reduce operational costs. 
 
 ## 🎯 Problem Statement
 
